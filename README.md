@@ -21,7 +21,7 @@
 
 | Name                                                                             | Platform | Review Score |      Date       | Completed | Notes                |
 | -------------------------------------------------------------------------------- | -------- | :----------: | :-------------: | :-------: | -------------------- |
-| [Control](https://bethesda.net/en/game/deathloop)                                | PS5      |      -       | December, 2023  |    ✅     | Assist mode enabled. |
+| [Control](https://www.remedygames.com/games/control)                             | PS5      |      -       | December, 2023  |    ✅     | Assist mode enabled. |
 | [Oxenfree II: Lost Signals](https://nightschoolstudio.com/oxenfree-ii)           | PC       |  ⭐️ 10/10   | December, 2023  |    ✅     |                      |
 | [The Pedestrian](https://www.skookum-arts.com/)                                  | PS5      |      -       | November, 2023  |     -     |                      |
 | [God of War Ragnarök](https://www.playstation.com/en-us/god-of-war/)             | PS5      |      -       | November, 2023  |     -     |                      |
