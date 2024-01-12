@@ -66,21 +66,21 @@
 
 ## 2021
 
-| Name                                                                                                                              | Platform | Review Score |      Date       | Completed |
-| --------------------------------------------------------------------------------------------------------------------------------- | -------- | :----------: | :-------------: | :-------: |
-| [Guardians of the Galaxy](https://www.marvel.com/games/marvels-guardians-of-the-galaxy)                                           | PS5      |      -       | December, 2021  |    ✅     |
-| [Far Cry 6](https://www.ubisoft.com/en-us/game/far-cry/far-cry-6)                                                                 | PS5      |     🙋‍♂️🙋‍♂️     |  October, 2021  |     -     |
-| [Metroid Dread](https://metroid.nintendo.com/)                                                                                    | Switch   |      -       |  October, 2021  |     -     |
-| [Kena: Bridge of Spirits](https://emberlab.com/)                                                                                  | PS5      |      -       | September, 2021 |     -     |
-| [Ratchet & Clank: Rift Apart](https://emberlab.com/)                                                                              | PS5      |      -       |  August, 2021   |    🏆     |
-| [Spider-Man: Miles Morales](https://insomniac.games/game/marvels-spider-man-miles-morales/)                                       | PS5      |      -       |   July, 2021    |    ✅     |
-| [Assassin's Creed Valhalla](https://www.ubisoft.com/en-us/game/assassins-creed/valhalla)                                          | PS4      |      🥱      |   July, 2021    |     -     |
-| [Returnal](https://housemarque.com/games/returnal)                                                                                | PS5      |      🚪      |   July, 2021    |     -     |
-| [Uncharted: The Lost Legacy](https://www.playstation.com/en-us/uncharted/l)                                                       | PS4      |      -       |   July, 2021    |    ✅     |
-| [Horizon Zero Dawn](https://www.playstation.com/en-gb/games/horizon-zero-dawn/)                                                   | PS4      |      -       |   July, 2021    |    ✅     |
-| [Ratchet & Clank](https://insomniac.games/game/ratchet-and-clank-ps4/)                                                            | PS4      |      -       |   April, 2021   |    ✅     |
-| [Spider-Man: Miles Morales](https://insomniac.games/game/marvels-spider-man-miles-morales/)                                       | PS4      |      -       |   March, 2021   |    ✅     |
-| [Super Mario 3D World + Bowser's Fury](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/) | Switch   |      🍿      | February, 2021  |     -     |
+|                              Cover Art                               | Name                                                                                                                              | Platform | Review Score |      Date       | Completed |
+| :------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------- | -------- | :----------: | :-------------: | :-------: |
+|   <img src="./covers/guardians-of-the-galaxy.jpg" height="100" />    | [Guardians of the Galaxy](https://www.marvel.com/games/marvels-guardians-of-the-galaxy)                                           | PS5      |      -       | December, 2021  |    ✅     |
+|          <img src="./covers/far-cry-6.jpg" height="100" />           | [Far Cry 6](https://www.ubisoft.com/en-us/game/far-cry/far-cry-6)                                                                 | PS5      |     🙋‍♂️🙋‍♂️     |  October, 2021  |     -     |
+|        <img src="./covers/metroid-dread.png" height="100" />         | [Metroid Dread](https://metroid.nintendo.com/)                                                                                    | Switch   |      -       |  October, 2021  |     -     |
+|    <img src="./covers/kena-bridge-of-spirits.jpg" height="100" />    | [Kena: Bridge of Spirits](https://emberlab.com/)                                                                                  | PS5      |      -       | September, 2021 |     -     |
+| <img src="./covers/ratchet-and-clank-rift-apart.png" height="100" /> | [Ratchet & Clank: Rift Apart](https://emberlab.com/)                                                                              | PS5      |      -       |  August, 2021   |    🏆     |
+|  <img src="./covers/spider-man-miles-morales.jpeg" height="100" />   | [Spider-Man: Miles Morales](https://insomniac.games/game/marvels-spider-man-miles-morales/)                                       | PS5      |      -       |   July, 2021    |    ✅     |
+|   <img src="./covers/assassins-creed-valhalla.jpg" height="100" />   | [Assassin's Creed Valhalla](https://www.ubisoft.com/en-us/game/assassins-creed/valhalla)                                          | PS4      |      🥱      |   July, 2021    |     -     |
+|           <img src="./covers/returnal.jpg" height="100" />           | [Returnal](https://housemarque.com/games/returnal)                                                                                | PS5      |      🚪      |   July, 2021    |     -     |
+|  <img src="./covers/uncharted-the-lost-legacy.jpg" height="100" />   | [Uncharted: The Lost Legacy](https://www.playstation.com/en-us/uncharted/l)                                                       | PS4      |      -       |   July, 2021    |    ✅     |
+|      <img src="./covers/horizon-zero-dawn.jpg" height="100" />       | [Horizon Zero Dawn](https://www.playstation.com/en-gb/games/horizon-zero-dawn/)                                                   | PS4      |      -       |   July, 2021    |    ✅     |
+|      <img src="./covers/ratchet-and-clank.jpg" height="100" />       | [Ratchet & Clank](https://insomniac.games/game/ratchet-and-clank-ps4/)                                                            | PS4      |      -       |   April, 2021   |    ✅     |
+|  <img src="./covers/spider-man-miles-morales.jpeg" height="100" />   | [Spider-Man: Miles Morales](https://insomniac.games/game/marvels-spider-man-miles-morales/)                                       | PS4      |      -       |   March, 2021   |    ✅     |
+|     <img src="./covers/super-mario-3d-world.jpg" height="100" />     | [Super Mario 3D World + Bowser's Fury](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/) | Switch   |      🍿      | February, 2021  |     -     |
 
 ### Notes
 
