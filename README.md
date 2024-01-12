@@ -4,39 +4,39 @@
 
 ## Upcoming
 
-| Name                                                                                                                 | Platform | Review Score | Date | Completed | Notes |
-| -------------------------------------------------------------------------------------------------------------------- | -------- | :----------: | :--: | :-------: | ----- |
-| [Alan Wake 2](https://www.alanwake.com/)                                                                             | XBOX     |      -       |  -   |     -     |       |
-| [Prince of Persia The Lost Crown](https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown)                | PC       |      -       |  -   |     -     |       |
-| [Life is Strange: True Colors](https://lifeisstrange.square-enix-games.com/en-us/games/life-is-strange-true-colors/) | PS5      |      -       |  -   |     -     |       |
-| [COCOON](https://www.cocoongame.com/)                                                                                | PC/XBOX  |      -       |  -   |     -     |       |
+|                                Cover Art                                | Name                                                                                                                 | Platform | Review Score | Date | Completed | Notes |
+| :---------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------- | -------- | :----------: | :--: | :-------: | ----- |
+|           <img src="./covers/alan-wake-2.jpg" height="100" />           | [Alan Wake 2](https://www.alanwake.com/)                                                                             | XBOX     |      -       |  -   |     -     |       |
+| <img src="./covers/prince-of-persia-the-lost-crown.jpg" height="100" /> | [Prince of Persia The Lost Crown](https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown)                | PC       |      -       |  -   |     -     |       |
+|   <img src="./covers/life-is-strange-true-colors.png" height="100" />   | [Life is Strange: True Colors](https://lifeisstrange.square-enix-games.com/en-us/games/life-is-strange-true-colors/) | PS5      |      -       |  -   |     -     |       |
+|             <img src="./covers/cocoon.png" height="100" />              | [COCOON](https://www.cocoongame.com/)                                                                                | PC/XBOX  |      -       |  -   |     -     |       |
 
 ## 2024
 
-| Name                                                                        | Platform | Review Score |     Date      | Completed | Notes |
-| --------------------------------------------------------------------------- | -------- | :----------: | :-----------: | :-------: | ----- |
-| 🎮 ["DEATHLOOP"](https://bethesda.net/en/game/deathloop)                    | PC       |      -       | January, 2024 |     -     |       |
-| [Red Dead Redemption II](https://www.rockstargames.com/reddeadredemption2/) | PC       |      -       | January, 2024 |     -     |       |
+|                           Cover Art                           | Name                                                                        | Platform | Review Score |     Date      | Completed | Notes |
+| :-----------------------------------------------------------: | --------------------------------------------------------------------------- | -------- | :----------: | :-----------: | :-------: | ----- |
+|      <img src="./covers/alan-wake-2.jpg" height="100" />      | ["DEATHLOOP"](https://bethesda.net/en/game/deathloop)                       | PC       |      🎮      | January, 2024 |     -     |       |
+| <img src="./covers/red-dead-redemption-2.jpg" height="100" /> | [Red Dead Redemption II](https://www.rockstargames.com/reddeadredemption2/) | PC       |      -       | January, 2024 |     -     |       |
 
 ## 2023
 
-| Name                                                                             | Platform | Review Score |      Date       | Completed | Notes                                                                                   |
-| -------------------------------------------------------------------------------- | -------- | :----------: | :-------------: | :-------: | --------------------------------------------------------------------------------------- |
-| [Control](https://www.remedygames.com/games/control)                             | PS5      |      -       | December, 2023  |    ✅     | Revisited because of Alan Wake. Assist mode enabled.                                    |
-| [Oxenfree II: Lost Signals](https://nightschoolstudio.com/oxenfree-ii)           | PC       |  ⭐️ 10/10   | December, 2023  |    ✅     |                                                                                         |
-| [The Pedestrian](https://www.skookum-arts.com/)                                  | PS5      |      -       | November, 2023  |     -     |                                                                                         |
-| [God of War Ragnarök](https://www.playstation.com/en-us/god-of-war/)             | PS5      |      -       | November, 2023  |     -     |                                                                                         |
-| [Spiderman 2](https://insomniac.games/game/marvels-spider-man-2/)                | PS5      |      -       | November, 2023  |    ✅     | Difficultly spike at the end was nuts. Had to turn down the difficulty at the very end. |
-| [Baldur's Gate 3](https://baldursgate3.game/)                                    | PC       |      🍿      | November, 2023  |     -     |                                                                                         |
-| [Watch Dogs: Legion](https://www.ubisoft.com/en-us/game/watch-dogs/legion)       | PC/XBOX  |     ⭐️      | September, 2023 |    ✅     |                                                                                         |
-| [Watch Dogs 2](https://www.ubisoft.com/en-us/game/watch-dogs/watch-dogs-2)       | PC/XBOX  |     ⭐️      | September, 2023 |    ✅     |                                                                                         |
-| [The Expanse: A Telltale Series](https://www.telltale.com/the-expanse/)          | XBOX     |      -       |  August, 2023   |     -     |                                                                                         |
-| [Pikmin 4](https://www.nintendo.com/us/store/products/pikmin-4-switch/)          | Switch   |      -       |   July, 2023    |     -     |                                                                                         |
-| [STAR WARS Jedi: Survivor](https://www.ea.com/games/starwars/jedi/jedi-survivor) | PS5      |      -       |   July, 2023    |     -     |                                                                                         |
-| [Redfall](https://bethesda.net/en/game/redfall)                                  | PC       |      👎      |    May, 2023    |     -     | I tried. Twice.                                                                         |
-| [Dead Island 2](https://deadisland.com/)                                         | PC       |  ⭐️ 10/10   |    May, 2023    |     -     |                                                                                         |
-| [Hi-Fi Rush](https://bethesda.net/en-US/game/hifirush)                           | PC/XBOX  |  ⭐️ 10/10   |   March, 2023   |    ✅     |                                                                                         |
-| [Gears 5](https://www.gearsofwar.com/games/gears-5/)                             | PC/XBOX  |      -       | February, 2023  |    ✅     | Finally! I was a little behind on this one.                                             |
+|                            Cover Art                            | Name                                                                             | Platform | Review Score |      Date       | Completed | Notes                                                                                   |
+| :-------------------------------------------------------------: | -------------------------------------------------------------------------------- | -------- | :----------: | :-------------: | :-------: | --------------------------------------------------------------------------------------- |
+|         <img src="./covers/control.jpg" height="100" />         | [Control](https://www.remedygames.com/games/control)                             | PS5      |      -       | December, 2023  |    ✅     | Revisited because of Alan Wake. Assist mode enabled.                                    |
+| <img src="./covers/oxenfree-2-lost-signals.jpg" height="100" /> | [Oxenfree II: Lost Signals](https://nightschoolstudio.com/oxenfree-ii)           | PC       |  ⭐️ 10/10   | December, 2023  |    ✅     |                                                                                         |
+|     <img src="./covers/the-pedestrian.jpg" height="100" />      | [The Pedestrian](https://www.skookum-arts.com/)                                  | PS5      |      -       | November, 2023  |     -     |                                                                                         |
+|   <img src="./covers/god-of-war-ragnarok.jpg" height="100" />   | [God of War Ragnarök](https://www.playstation.com/en-us/god-of-war/)             | PS5      |      -       | November, 2023  |     -     |                                                                                         |
+|      <img src="./covers/spider-man-2.jpg" height="100" />       | [Spider-Man 2](https://insomniac.games/game/marvels-spider-man-2/)               | PS5      |      -       | November, 2023  |    ✅     | Difficultly spike at the end was nuts. Had to turn down the difficulty at the very end. |
+|     <img src="./covers/baldurs-gate-3.jpg" height="100" />      | [Baldur's Gate 3](https://baldursgate3.game/)                                    | PC       |      🍿      | November, 2023  |     -     |                                                                                         |
+|    <img src="./covers/watch-dogs-legion.png" height="100" />    | [Watch Dogs: Legion](https://www.ubisoft.com/en-us/game/watch-dogs/legion)       | PC/XBOX  |     ⭐️      | September, 2023 |    ✅     |                                                                                         |
+|      <img src="./covers/watch-dogs-2.jpg" height="100" />       | [Watch Dogs 2](https://www.ubisoft.com/en-us/game/watch-dogs/watch-dogs-2)       | PC/XBOX  |     ⭐️      | September, 2023 |    ✅     |                                                                                         |
+|  <img src="./covers/the-expanse-telltale.jpg" height="100" />   | [The Expanse: A Telltale Series](https://www.telltale.com/the-expanse/)          | XBOX     |      -       |  August, 2023   |     -     |                                                                                         |
+|        <img src="./covers/pikmin-4.jpg" height="100" />         | [Pikmin 4](https://www.nintendo.com/us/store/products/pikmin-4-switch/)          | Switch   |      -       |   July, 2023    |     -     |                                                                                         |
+| <img src="./covers/star-wars-jedi-survivor.jpg" height="100" /> | [STAR WARS Jedi: Survivor](https://www.ea.com/games/starwars/jedi/jedi-survivor) | PS5      |      -       |   July, 2023    |     -     |                                                                                         |
+|         <img src="./covers/redfall.jpg" height="100" />         | [Redfall](https://bethesda.net/en/game/redfall)                                  | PC       |      👎      |    May, 2023    |     -     | I tried. Twice.                                                                         |
+|      <img src="./covers/dead-island-2.jpg" height="100" />      | [Dead Island 2](https://deadisland.com/)                                         | PC       |  ⭐️ 10/10   |    May, 2023    |     -     |                                                                                         |
+|       <img src="./covers/hi-fi-rush.jpg" height="100" />        | [Hi-Fi Rush](https://bethesda.net/en-US/game/hifirush)                           | PC/XBOX  |  ⭐️ 10/10   |   March, 2023   |    ✅     |                                                                                         |
+|         <img src="./covers/gears-5.png" height="100" />         | [Gears 5](https://www.gearsofwar.com/games/gears-5/)                             | PC/XBOX  |      -       | February, 2023  |    ✅     | Finally! I was a little behind on this one.                                             |
 
 ## 2022
 
