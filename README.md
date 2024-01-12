@@ -1,6 +1,6 @@
 # Games I've Played
 
-> A chronicling of the games I play each year.
+> A chronicling of the games I played each year.
 
 ## Currently Playing
 
