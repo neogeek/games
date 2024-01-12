@@ -53,15 +53,16 @@
 | [Ghosts of Tsushima](https://www.suckerpunch.com/category/games/ghost-of-tsushima/)       | PS5      |     ⭐️      |  October, 2022  |     -     |
 | [Gotham Knights](https://www.gothamknightsgame.com/en-us)                                 | PS5      |      👎      |  October, 2022  |     -     |
 | [Saints Row](https://saintsrow.com/)                                                      | PC       |      -       | September, 2022 |    ✅     |
-| [Stray](https://stray.game/)                                                              | PS5      |      -       |  August, 2022   |    ✅     |
+| [Stray](https://stray.game/)                                                              | PS5      |      -       |  August, 2022   |     -     |
 | [Halo Infinite](https://www.halowaypoint.com/halo-infinite)                               | PC/XBOX  |      -       |   June, 2022    |    ✅     |
 | [TMNT: Shredder's Revenge](https://www.shredders-revenge.com/)                            | PC/XBOX  |      🍿      |   June, 2022    |     -     |
 | [Horizon Forbidden West](https://www.playstation.com/en-us/games/horizon-forbidden-west/) | PS5      |      -       |   March, 2022   |     -     |
-| [God of War](https://www.playstation.com/en-us/god-of-war/)                               | PS5      |      -       | February, 2022  |    ✅     |
+| [God of War](https://www.playstation.com/en-us/god-of-war/)                               | PS5      |     ⭐️      | February, 2022  |    ✅     |
 
 ### Notes
 
 - **Ghosts of Tsushima** - Love this game, I'm just not great at it.
+- **God of War** - Had to drop it down to easy unfortunately. Glad I did because it was an awesome game.
 
 ## 2021
 
