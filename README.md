@@ -47,17 +47,17 @@
 
 ## 2022
 
-| Name                                                                                      | Platform | Review Score |      Date       | Completed |
-| ----------------------------------------------------------------------------------------- | -------- | :----------: | :-------------: | :-------: |
-| [High On Life](https://squanchgames.com/high-on-life/)                                    | PC       |      -       | December, 2022  |    ✅     |
-| [Ghosts of Tsushima](https://www.suckerpunch.com/category/games/ghost-of-tsushima/)       | PS5      |     ⭐️      |  October, 2022  |     -     |
-| [Gotham Knights](https://www.gothamknightsgame.com/en-us)                                 | PS5      |      👎      |  October, 2022  |     -     |
-| [Saints Row](https://saintsrow.com/)                                                      | PC       |      -       | September, 2022 |    ✅     |
-| [Stray](https://stray.game/)                                                              | PS5      |      -       |  August, 2022   |     -     |
-| [Halo Infinite](https://www.halowaypoint.com/halo-infinite)                               | PC/XBOX  |      -       |   June, 2022    |    ✅     |
-| [TMNT: Shredder's Revenge](https://www.shredders-revenge.com/)                            | PC/XBOX  |      🍿      |   June, 2022    |     -     |
-| [Horizon Forbidden West](https://www.playstation.com/en-us/games/horizon-forbidden-west/) | PS5      |      -       |   March, 2022   |     -     |
-| [God of War](https://www.playstation.com/en-us/god-of-war/)                               | PS5      |     ⭐️      | February, 2022  |    ✅     |
+|                           Cover Art                            | Name                                                                                      | Platform | Review Score |      Date       | Completed |
+| :------------------------------------------------------------: | ----------------------------------------------------------------------------------------- | -------- | :----------: | :-------------: | :-------: |
+|      <img src="./covers/high-on-life.jpg" height="100" />      | [High On Life](https://squanchgames.com/high-on-life/)                                    | PC       |      -       | December, 2022  |    ✅     |
+|   <img src="./covers/ghosts-of-tsushima.jpg" height="100" />   | [Ghosts of Tsushima](https://www.suckerpunch.com/category/games/ghost-of-tsushima/)       | PS5      |     ⭐️      |  October, 2022  |     -     |
+|     <img src="./covers/gotham-knights.jpg" height="100" />     | [Gotham Knights](https://www.gothamknightsgame.com/en-us)                                 | PS5      |      👎      |  October, 2022  |     -     |
+|      <img src="./covers/saints-row.jpeg" height="100" />       | [Saints Row](https://saintsrow.com/)                                                      | PC       |      -       | September, 2022 |    ✅     |
+|         <img src="./covers/stray.jpg" height="100" />          | [Stray](https://stray.game/)                                                              | PS5      |      -       |  August, 2022   |     -     |
+|     <img src="./covers/halo-infinite.png" height="100" />      | [Halo Infinite](https://www.halowaypoint.com/halo-infinite)                               | PC/XBOX  |      -       |   June, 2022    |    ✅     |
+| <img src="./covers/tmnt-shredders-revenge.jpg" height="100" /> | [TMNT: Shredder's Revenge](https://www.shredders-revenge.com/)                            | PC/XBOX  |      🍿      |   June, 2022    |     -     |
+| <img src="./covers/horizon-forbidden-west.jpg" height="100" /> | [Horizon Forbidden West](https://www.playstation.com/en-us/games/horizon-forbidden-west/) | PS5      |      -       |   March, 2022   |     -     |
+|       <img src="./covers/god-of-war.jpg" height="100" />       | [God of War](https://www.playstation.com/en-us/god-of-war/)                               | PS5      |     ⭐️      | February, 2022  |    ✅     |
 
 ### Notes
 
