@@ -6,9 +6,10 @@
 
 | Name                                                                                                                 | Platform | Review Score | Date | Completed | Notes |
 | -------------------------------------------------------------------------------------------------------------------- | -------- | :----------: | :--: | :-------: | ----- |
-| [COCOON](https://www.cocoongame.com/)                                                                                | PC/XBOX  |      -       |  -   |     -     |       |
+| [Alan Wake 2](https://www.alanwake.com/)                                                                             | XBOX     |      -       |  -   |     -     |       |
 | [Prince of Persia The Lost Crown](https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown)                | PC       |      -       |  -   |     -     |       |
 | [Life is Strange: True Colors](https://lifeisstrange.square-enix-games.com/en-us/games/life-is-strange-true-colors/) | PS5      |      -       |  -   |     -     |       |
+| [COCOON](https://www.cocoongame.com/)                                                                                | PC/XBOX  |      -       |  -   |     -     |       |
 
 ## 2024
 
