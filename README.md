@@ -27,8 +27,8 @@
 | [God of War Ragnarök](https://www.playstation.com/en-us/god-of-war/)             | PS5      |      -       | November, 2023  |     -     |                      |
 | [Spiderman 2](https://insomniac.games/game/marvels-spider-man-2/)                | PS5      |      -       | November, 2023  |    ✅     |                      |
 | [Baldur's Gate 3](https://baldursgate3.game/)                                    | PC       |      -       | November, 2023  |     -     |                      |
-| [Watch Dogs 2](https://www.ubisoft.com/en-us/game/watch-dogs/watch-dogs-2)       | PC/XBOX  |      -       | September, 2023 |    ✅     |                      |
 | [Watch Dogs: Legion](https://www.ubisoft.com/en-us/game/watch-dogs/legion)       | PC/XBOX  |      -       | September, 2023 |    ✅     |                      |
+| [Watch Dogs 2](https://www.ubisoft.com/en-us/game/watch-dogs/watch-dogs-2)       | PC/XBOX  |      -       | September, 2023 |    ✅     |                      |
 | [The Expanse: A Telltale Series](https://www.telltale.com/the-expanse/)          | XBOX     |      -       |  August, 2023   |     -     |                      |
 | [Pikmin 4](https://www.nintendo.com/us/store/products/pikmin-4-switch/)          | Switch   |      -       |   July, 2023    |     -     |                      |
 | [STAR WARS Jedi: Survivor](https://www.ea.com/games/starwars/jedi/jedi-survivor) | PS5      |      -       |   July, 2023    |     -     |                      |
