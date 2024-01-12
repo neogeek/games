@@ -30,6 +30,7 @@
 | [Watch Dogs 2](https://www.ubisoft.com/en-us/game/watch-dogs/watch-dogs-2)       | PC/XBOX  |      -       | September, 2023 |    ✅     |                      |
 | [Watch Dogs: Legion](https://www.ubisoft.com/en-us/game/watch-dogs/legion)       | PC/XBOX  |      -       | September, 2023 |    ✅     |                      |
 | [The Expanse: A Telltale Series](https://www.telltale.com/the-expanse/)          | XBOX     |      -       |  August, 2023   |     -     |                      |
+| [Pikmin 4](https://www.nintendo.com/us/store/products/pikmin-4-switch/)          | Switch   |      -       |   July, 2023    |     -     |                      |
 | [STAR WARS Jedi: Survivor](https://www.ea.com/games/starwars/jedi/jedi-survivor) | PS5      |      -       |   July, 2023    |     -     |                      |
 | [Redfall](https://bethesda.net/en/game/redfall)                                  | PC       |      -       |    May, 2023    |    🗑️     | I tried.             |
 | [Dead Island 2](https://deadisland.com/)                                         | PC       |  ⭐️ 10/10   |    May, 2023    |     -     |                      |
@@ -52,16 +53,18 @@
 
 ## 2021
 
-| Name                                                                                        | Platform | Review Score |      Date       | Completed | Notes       |
-| ------------------------------------------------------------------------------------------- | -------- | :----------: | :-------------: | :-------: | ----------- |
-| [Guardians of the Galaxy](https://www.marvel.com/games/marvels-guardians-of-the-galaxy)     | PS5      |      -       | December, 2021  |    ✅     |             |
-| [Far Cry 6](https://www.ubisoft.com/en-us/game/far-cry/far-cry-6)                           | PS5      |      -       |  October, 2021  |     -     |             |
-| [Kena: Bridge of Spirits](https://emberlab.com/)                                            | PS5      |      -       | September, 2021 |     -     |             |
-| [Ratchet & Clank: Rift Apart](https://emberlab.com/)                                        | PS5      |      -       |  August, 2021   |    ✅     | 🏆 Platinum |
-| [Spider-Man: Miles Morales](https://insomniac.games/game/marvels-spider-man-miles-morales/) | PS5      |      -       |   July, 2021    |    ✅     |             |
-| [Assassin's Creed Valhalla](https://www.ubisoft.com/en-us/game/assassins-creed/valhalla)    | PS4      |      -       |   July, 2021    |     -     |             |
-| [Returnal](https://housemarque.com/games/returnal)                                          | PS5      |      -       |   July, 2021    |     -     |             |
-| [Uncharted: The Lost Legacy](https://www.playstation.com/en-us/uncharted/l)                 | PS4      |      -       |   July, 2021    |    ✅     |             |
-| [Horizon Zero Dawn](https://www.playstation.com/en-gb/games/horizon-zero-dawn/)             | PS4      |      -       |   July, 2021    |    ✅     |             |
-| [Ratchet & Clank](https://insomniac.games/game/ratchet-and-clank-ps4/)                      | PS4      |      -       |   April, 2021   |    ✅     |             |
-| [Spider-Man: Miles Morales](https://insomniac.games/game/marvels-spider-man-miles-morales/) | PS4      |      -       |   March, 2021   |    ✅     |             |
+| Name                                                                                                                              | Platform | Review Score |      Date       | Completed | Notes       |
+| --------------------------------------------------------------------------------------------------------------------------------- | -------- | :----------: | :-------------: | :-------: | ----------- |
+| [Guardians of the Galaxy](https://www.marvel.com/games/marvels-guardians-of-the-galaxy)                                           | PS5      |      -       | December, 2021  |    ✅     |             |
+| [Far Cry 6](https://www.ubisoft.com/en-us/game/far-cry/far-cry-6)                                                                 | PS5      |      -       |  October, 2021  |     -     |             |
+| [Metroid Dread](https://metroid.nintendo.com/)                                                                                    | Switch   |      -       |  October, 2021  |     -     |             |
+| [Kena: Bridge of Spirits](https://emberlab.com/)                                                                                  | PS5      |      -       | September, 2021 |     -     |             |
+| [Ratchet & Clank: Rift Apart](https://emberlab.com/)                                                                              | PS5      |      -       |  August, 2021   |    ✅     | 🏆 Platinum |
+| [Spider-Man: Miles Morales](https://insomniac.games/game/marvels-spider-man-miles-morales/)                                       | PS5      |      -       |   July, 2021    |    ✅     |             |
+| [Assassin's Creed Valhalla](https://www.ubisoft.com/en-us/game/assassins-creed/valhalla)                                          | PS4      |      -       |   July, 2021    |     -     |             |
+| [Returnal](https://housemarque.com/games/returnal)                                                                                | PS5      |      -       |   July, 2021    |     -     |             |
+| [Uncharted: The Lost Legacy](https://www.playstation.com/en-us/uncharted/l)                                                       | PS4      |      -       |   July, 2021    |    ✅     |             |
+| [Horizon Zero Dawn](https://www.playstation.com/en-gb/games/horizon-zero-dawn/)                                                   | PS4      |      -       |   July, 2021    |    ✅     |             |
+| [Ratchet & Clank](https://insomniac.games/game/ratchet-and-clank-ps4/)                                                            | PS4      |      -       |   April, 2021   |    ✅     |             |
+| [Spider-Man: Miles Morales](https://insomniac.games/game/marvels-spider-man-miles-morales/)                                       | PS4      |      -       |   March, 2021   |    ✅     |             |
+| [Super Mario 3D World + Bowser's Fury](https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/) | Switch   |      -       | February, 2021  |     -     |             |
