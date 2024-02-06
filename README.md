@@ -4,9 +4,9 @@
 
 ## Currently Playing
 
-| Cover Art | Name | Platform | Review Score | Date | Completed |
-| :-------: | ---- | -------- | :----------: | :--: | :-------: |
-|     -     | -    | -        |      -       |  -   |     -     |
+|                                   Cover Art                                   | Name                                                                             | Platform | Review Score | Date | Completed |
+| :---------------------------------------------------------------------------: | -------------------------------------------------------------------------------- | -------- | :----------: | :--: | :-------: |
+| <img src="./covers/suicide-squad-kill-the-justice-league.jpg" height="100" /> | [Suicide Squad: Kill the Justice League](https://www.suicidesquadgame.com/en-us) | PC       |     ⭐️      |  -   |     -     |
 
 ## Upcoming
 
