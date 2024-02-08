@@ -19,11 +19,11 @@
 
 ## 2024
 
-|                                   Cover Art                                   | Name                                                                             | Platform | Review Score |     Date      | Completed |
-| :---------------------------------------------------------------------------: | -------------------------------------------------------------------------------- | -------- | :----------: | :-----------: | :-------: |
-| <img src="./covers/suicide-squad-kill-the-justice-league.jpg" height="100" /> | [Suicide Squad: Kill the Justice League](https://www.suicidesquadgame.com/en-us) | PC       |  ⭐️ 10/10   | January, 2024 |    ✅     |
-|               <img src="./covers/deathloop.jpg" height="100" />               | ["DEATHLOOP"](https://bethesda.net/en/game/deathloop)                            | PC/PS5   |  ⭐️ 10/10   | January, 2024 |    ✅     |
-|         <img src="./covers/red-dead-redemption-2.jpg" height="100" />         | [Red Dead Redemption II](https://www.rockstargames.com/reddeadredemption2/)      | PC       |      -       | January, 2024 |     -     |
+|                                   Cover Art                                   | Name                                                                             | Platform | Review Score |      Date      | Completed |
+| :---------------------------------------------------------------------------: | -------------------------------------------------------------------------------- | -------- | :----------: | :------------: | :-------: |
+| <img src="./covers/suicide-squad-kill-the-justice-league.jpg" height="100" /> | [Suicide Squad: Kill the Justice League](https://www.suicidesquadgame.com/en-us) | PC       |  ⭐️ 10/10   | February, 2024 |    ✅     |
+|               <img src="./covers/deathloop.jpg" height="100" />               | ["DEATHLOOP"](https://bethesda.net/en/game/deathloop)                            | PC/PS5   |  ⭐️ 10/10   | January, 2024  |    ✅     |
+|         <img src="./covers/red-dead-redemption-2.jpg" height="100" />         | [Red Dead Redemption II](https://www.rockstargames.com/reddeadredemption2/)      | PC       |      -       | January, 2024  |     -     |
 
 ## 2023
 
