@@ -1,0 +1,367 @@
+{
+  "playing": [],
+  "upcoming": [
+    {
+      "image": "./covers/alan-wake-2.jpg",
+      "name": "Alan Wake 2",
+      "url": "https://www.alanwake.com/",
+      "platform": ["XBOX"]
+    },
+    {
+      "image": "./covers/prince-of-persia-the-lost-crown.jpg",
+      "name": "Prince of Persia The Lost Crown",
+      "url": "https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown",
+      "platform": ["PC"]
+    },
+    {
+      "image": "./covers/life-is-strange-true-colors.png",
+      "name": "Life is Strange: True Colors",
+      "url": "https://lifeisstrange.square-enix-games.com/en-us/games/life-is-strange-true-colors/",
+      "platform": ["PS5"]
+    },
+    {
+      "image": "./covers/cocoon.png",
+      "name": "COCOON",
+      "url": "https://www.cocoongame.com/",
+      "platform": ["PC/XBOX"]
+    }
+  ],
+
+  "2024": [
+    {
+      "image": "./covers/suicide-squad-kill-the-justice-league.jpg",
+      "name": "Suicide Squad: Kill the Justice League",
+      "url": "https://www.suicidesquadgame.com/en-us",
+      "platform": ["PC"],
+      "review": "⭐️ 10/10",
+      "date": "February, 2024",
+      "completed": true
+    },
+    {
+      "image": "./covers/deathloop.jpg",
+      "name": "\"DEATHLOOP\"",
+      "url": "https://bethesda.net/en/game/deathloop",
+      "platform": ["PC", "PS5"],
+      "review": "⭐️ 10/10",
+      "date": "January, 2024",
+      "completed": true
+    },
+    {
+      "image": "./covers/red-dead-redemption-2.jpg",
+      "name": "Red Dead Redemption II",
+      "url": "https://www.rockstargames.com/reddeadredemption2/",
+      "platform": ["PC"],
+      "date": "January, 2024"
+    }
+  ],
+  "2023": [
+    {
+      "image": "./covers/control.jpg",
+      "name": "Control",
+      "url": "https://www.remedygames.com/games/control",
+      "platform": ["PS5"],
+      "date": "December, 2023",
+      "completed": true,
+      "note": "Revisited because of Alan Wake. Assist mode enabled."
+    },
+    {
+      "image": "./covers/oxenfree-2-lost-signals.jpg",
+      "name": "Oxenfree II: Lost Signals",
+      "url": "https://nightschoolstudio.com/oxenfree-ii",
+      "platform": ["PC"],
+      "review": "⭐️ 10/10",
+      "date": "December, 2023",
+      "completed": true
+    },
+    {
+      "image": "./covers/the-pedestrian.jpg",
+      "name": "The Pedestrian",
+      "url": "https://www.skookum-arts.com/",
+      "platform": ["PS5"],
+      "date": "November, 2023"
+    },
+    {
+      "image": "./covers/god-of-war-ragnarok.jpg",
+      "name": "God of War Ragnarök",
+      "url": "https://www.playstation.com/en-us/god-of-war/",
+      "platform": ["PS5"],
+      "date": "November, 2023"
+    },
+    {
+      "image": "./covers/spider-man-2.jpg",
+      "name": "Spider-Man 2",
+      "url": "https://insomniac.games/game/marvels-spider-man-2/",
+      "platform": ["PS5"],
+      "date": "November, 2023",
+      "completed": true,
+      "note": "Difficultly spike at the end was nuts. Had to turn down the difficulty at the very end."
+    },
+    {
+      "image": "./covers/baldurs-gate-3.jpg",
+      "name": "Baldur's Gate 3",
+      "url": "https://baldursgate3.game/",
+      "platform": ["PC"],
+      "review": "🍿",
+      "date": "November, 2023"
+    },
+    {
+      "image": "./covers/watch-dogs-legion.png",
+      "name": "Watch Dogs: Legion",
+      "url": "https://www.ubisoft.com/en-us/game/watch-dogs/legion",
+      "platform": ["PC", "XBOX"],
+      "review": "⭐️",
+      "date": "September, 2023",
+      "completed": true
+    },
+    {
+      "image": "./covers/watch-dogs-2.jpg",
+      "name": "Watch Dogs 2",
+      "url": "https://www.ubisoft.com/en-us/game/watch-dogs/watch-dogs-2",
+      "platform": ["PC", "XBOX"],
+      "review": "⭐️",
+      "date": "September, 2023",
+      "completed": true
+    },
+    {
+      "image": "./covers/the-expanse-telltale.jpg",
+      "name": "The Expanse: A Telltale Series",
+      "url": "https://www.telltale.com/the-expanse/",
+      "platform": ["XBOX"],
+      "date": "August, 2023"
+    },
+    {
+      "image": "./covers/pikmin-4.jpg",
+      "name": "Pikmin 4",
+      "url": "https://www.nintendo.com/us/store/products/pikmin-4-switch/",
+      "platform": ["Switch"],
+      "date": "July, 2023"
+    },
+    {
+      "image": "./covers/star-wars-jedi-survivor.jpg",
+      "name": "STAR WARS Jedi: Survivor",
+      "url": "https://www.ea.com/games/starwars/jedi/jedi-survivor",
+      "platform": ["PS5"],
+      "date": "July, 2023"
+    },
+    {
+      "image": "./covers/redfall.jpg",
+      "name": "Redfall",
+      "url": "https://bethesda.net/en/game/redfall",
+      "platform": ["PC"],
+      "review": "👎",
+      "date": "May, 2023",
+      "note": "I tried. Twice."
+    },
+    {
+      "image": "./covers/dead-island-2.jpg",
+      "name": "Dead Island 2",
+      "url": "https://deadisland.com/",
+      "platform": ["PC"],
+      "review": "⭐️ 10/10",
+      "date": "May, 2023"
+    },
+    {
+      "image": "./covers/hi-fi-rush.jpg",
+      "name": "Hi-Fi Rush",
+      "url": "https://bethesda.net/en-US/game/hifirush",
+      "platform": ["PC", "XBOX"],
+      "review": "⭐️ 10/10",
+      "date": "March, 2023",
+      "completed": true
+    },
+    {
+      "image": "./covers/gears-5.png",
+      "name": "Gears 5",
+      "url": "https://www.gearsofwar.com/games/gears-5/",
+      "platform": ["PC", "XBOX"],
+      "date": "February, 2023",
+      "completed": true,
+      "note": "Finally! I was a little behind on this one."
+    }
+  ],
+  "2022": [
+    {
+      "image": "./covers/high-on-life.jpg",
+      "name": "High On Life",
+      "url": "https://squanchgames.com/high-on-life/",
+      "platform": ["PC"],
+      "date": "December, 2022",
+      "completed": true
+    },
+    {
+      "image": "./covers/ghosts-of-tsushima.jpg",
+      "name": "Ghosts of Tsushima",
+      "url": "https://www.suckerpunch.com/category/games/ghost-of-tsushima/",
+      "platform": ["PS5"],
+      "review": "⭐️",
+      "date": "October, 2022",
+      "note": "Love this game, I'm just not great at it."
+    },
+    {
+      "image": "./covers/gotham-knights.jpg",
+      "name": "Gotham Knights",
+      "url": "https://www.gothamknightsgame.com/en-us",
+      "platform": ["PS5"],
+      "review": "👎",
+      "date": "October, 2022"
+    },
+    {
+      "image": "./covers/saints-row.jpg",
+      "name": "Saints Row",
+      "url": "https://saintsrow.com/",
+      "platform": ["PC"],
+      "date": "September, 2022",
+      "completed": true
+    },
+    {
+      "image": "./covers/stray.jpg",
+      "name": "Stray",
+      "url": "https://stray.game/",
+      "platform": ["PS5"],
+      "date": "August, 2022"
+    },
+    {
+      "image": "./covers/halo-infinite.png",
+      "name": "Halo Infinite",
+      "url": "https://www.halowaypoint.com/halo-infinite",
+      "platform": ["PC", "XBOX"],
+      "date": "June, 2022",
+      "completed": true
+    },
+    {
+      "image": "./covers/tmnt-shredders-revenge.jpg",
+      "name": "TMNT: Shredder's Revenge",
+      "url": "https://www.shredders-revenge.com/",
+      "platform": ["PC", "XBOX"],
+      "review": "🍿",
+      "date": "June, 2022"
+    },
+    {
+      "image": "./covers/horizon-forbidden-west.jpg",
+      "name": "Horizon Forbidden West",
+      "url": "https://www.playstation.com/en-us/games/horizon-forbidden-west/",
+      "platform": ["PS5"],
+      "date": "March, 2022"
+    },
+    {
+      "image": "./covers/god-of-war.jpg",
+      "name": "God of War",
+      "url": "https://www.playstation.com/en-us/god-of-war/",
+      "platform": ["PS5"],
+      "review": "⭐️ 10/10",
+      "date": "February, 2022",
+      "completed": true,
+      "note": "Had to drop it down to easy unfortunately. Glad I did because it was an awesome game."
+    }
+  ],
+  "2021": [
+    {
+      "image": "./covers/guardians-of-the-galaxy.jpg",
+      "name": "Guardians of the Galaxy",
+      "url": "https://www.marvel.com/games/marvels-guardians-of-the-galaxy",
+      "platform": ["PS5"],
+      "date": "December, 2021",
+      "completed": true
+    },
+    {
+      "image": "./covers/far-cry-6.jpg",
+      "name": "Far Cry 6",
+      "url": "https://www.ubisoft.com/en-us/game/far-cry/far-cry-6",
+      "platform": ["PS5"],
+      "review": "🙋‍♂️🙋‍♂️",
+      "date": "October, 2021"
+    },
+    {
+      "image": "./covers/metroid-dread.png",
+      "name": "Metroid Dread",
+      "url": "https://metroid.nintendo.com/",
+      "platform": ["Switch"],
+      "date": "October, 2021"
+    },
+    {
+      "image": "./covers/kena-bridge-of-spirits.jpg",
+      "name": "Kena: Bridge of Spirits",
+      "url": "https://emberlab.com/",
+      "platform": ["PS5"],
+      "date": "September, 2021"
+    },
+    {
+      "image": "./covers/ratchet-and-clank-rift-apart.png",
+      "name": "Ratchet & Clank: Rift Apart",
+      "url": "https://insomniac.games/game/ratchet-clank-rift-apart/",
+      "platform": ["PS5"],
+      "review": "🏆 ⭐️ 10/10",
+      "date": "August, 2021",
+      "completed": true,
+      "note": "I actually got all achievements for this on the PS5!"
+    },
+    {
+      "image": "./covers/spider-man-miles-morales.jpg",
+      "name": "Spider-Man: Miles Morales",
+      "url": "https://insomniac.games/game/marvels-spider-man-miles-morales/",
+      "platform": ["PS5"],
+      "review": "⭐️ 10/10",
+      "date": "July, 2021",
+      "completed": true
+    },
+    {
+      "image": "./covers/assassins-creed-valhalla.jpg",
+      "name": "Assassin's Creed Valhalla",
+      "url": "https://www.ubisoft.com/en-us/game/assassins-creed/valhalla",
+      "platform": ["PS4"],
+      "review": "🥱",
+      "date": "July, 2021"
+    },
+    {
+      "image": "./covers/returnal.jpg",
+      "name": "Returnal",
+      "url": "https://housemarque.com/games/returnal",
+      "platform": ["PS5"],
+      "review": "🚪",
+      "date": "July, 2021"
+    },
+    {
+      "image": "./covers/uncharted-the-lost-legacy.jpg",
+      "name": "Uncharted: The Lost Legacy",
+      "url": "https://www.playstation.com/en-us/uncharted/l",
+      "platform": ["PS4"],
+      "date": "July, 2021",
+      "completed": true
+    },
+    {
+      "image": "./covers/horizon-zero-dawn.jpg",
+      "name": "Horizon Zero Dawn",
+      "url": "https://www.playstation.com/en-gb/games/horizon-zero-dawn/",
+      "platform": ["PS4"],
+      "review": "⭐️ 10/10",
+      "date": "July, 2021",
+      "completed": true
+    },
+    {
+      "image": "./covers/ratchet-and-clank.jpg",
+      "name": "Ratchet & Clank",
+      "url": "https://insomniac.games/game/ratchet-and-clank-ps4/",
+      "platform": ["PS4"],
+      "review": "⭐️ 10/10",
+      "date": "April, 2021",
+      "completed": true
+    },
+    {
+      "image": "./covers/spider-man-miles-morales.jpg",
+      "name": "Spider-Man: Miles Morales",
+      "url": "https://insomniac.games/game/marvels-spider-man-miles-morales/",
+      "platform": ["PS4"],
+      "review": "⭐️ 10/10",
+      "date": "March, 2021",
+      "completed": true
+    },
+    {
+      "image": "./covers/super-mario-3d-world.jpg",
+      "name": "Super Mario 3D World + Bowser's Fury",
+      "url": "https://www.nintendo.com/us/store/products/super-mario-3d-world-plus-bowsers-fury-switch/",
+      "platform": ["Switch"],
+      "review": "🍿",
+      "date": "February, 2021"
+    }
+  ]
+}

@@ -4,9 +4,7 @@
 
 ## Currently Playing
 
-| Cover Art | Name | Platform | Review Score | Date | Completed |
-| :-------: | ---- | -------- | :----------: | :--: | :-------: |
-|     -     | -    | -        |      -       |  -   |     -     |
+No games recorded for this section.
 
 ## Upcoming
 
@@ -50,7 +48,7 @@
 - **Control** - Revisited because of Alan Wake. Assist mode enabled.
 - **Spider-Man 2** - Difficultly spike at the end was nuts. Had to turn down the difficulty at the very end.
 - **Redfall** - I tried. Twice.
-- **Gear 5** - Finally! I was a little behind on this one.
+- **Gears 5** - Finally! I was a little behind on this one.
 
 ## 2022
 
@@ -79,7 +77,7 @@
 |          <img src="./covers/far-cry-6.jpg" height="100" />           | [Far Cry 6](https://www.ubisoft.com/en-us/game/far-cry/far-cry-6)                                                                 | PS5      |     🙋‍♂️🙋‍♂️     |  October, 2021  |     -     |
 |        <img src="./covers/metroid-dread.png" height="100" />         | [Metroid Dread](https://metroid.nintendo.com/)                                                                                    | Switch   |      -       |  October, 2021  |     -     |
 |    <img src="./covers/kena-bridge-of-spirits.jpg" height="100" />    | [Kena: Bridge of Spirits](https://emberlab.com/)                                                                                  | PS5      |      -       | September, 2021 |     -     |
-| <img src="./covers/ratchet-and-clank-rift-apart.png" height="100" /> | [Ratchet & Clank: Rift Apart](https://emberlab.com/)                                                                              | PS5      |  ⭐️ 10/10   |  August, 2021   |    🏆     |
+| <img src="./covers/ratchet-and-clank-rift-apart.png" height="100" /> | [Ratchet & Clank: Rift Apart](https://insomniac.games/game/ratchet-clank-rift-apart/)                                             | PS5      | 🏆 ⭐️ 10/10 |  August, 2021   |    ✅     |
 |   <img src="./covers/spider-man-miles-morales.jpg" height="100" />   | [Spider-Man: Miles Morales](https://insomniac.games/game/marvels-spider-man-miles-morales/)                                       | PS5      |  ⭐️ 10/10   |   July, 2021    |    ✅     |
 |   <img src="./covers/assassins-creed-valhalla.jpg" height="100" />   | [Assassin's Creed Valhalla](https://www.ubisoft.com/en-us/game/assassins-creed/valhalla)                                          | PS4      |      🥱      |   July, 2021    |     -     |
 |           <img src="./covers/returnal.jpg" height="100" />           | [Returnal](https://housemarque.com/games/returnal)                                                                                | PS5      |      🚪      |   July, 2021    |     -     |
