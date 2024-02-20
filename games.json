@@ -29,6 +29,14 @@
 
   "2024": [
     {
+      "image": "./covers/crackdown-3.jpg",
+      "name": "Crackdown 3",
+      "url": "https://www.crackdown.com/",
+      "platform": ["XBOX"],
+      "date": "February, 2024",
+      "completed": true
+    },
+    {
       "image": "./covers/suicide-squad-kill-the-justice-league.jpg",
       "name": "Suicide Squad: Kill the Justice League",
       "url": "https://www.suicidesquadgame.com/en-us",
