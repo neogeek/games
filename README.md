@@ -4,7 +4,9 @@
 
 ## Currently Playing
 
-No games recorded for this section.
+|                   Cover Art                    | Name                                                                 | Platform | Review Score |      Date      | Completed |
+| :--------------------------------------------: | -------------------------------------------------------------------- | -------- | :----------: | :------------: | :-------: |
+| <img src="./covers/recore.jpg" height="100" /> | [ReCore](https://www.xbox.com/en-US/games/store/recore/9nblggh1z6fq) | PC/XBOX  |      -       | February, 2024 |     -     |
 
 ## Upcoming
 

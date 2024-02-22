@@ -1,5 +1,13 @@
 {
-  "playing": [],
+  "playing": [
+    {
+      "image": "./covers/recore.jpg",
+      "name": "ReCore",
+      "url": "https://www.xbox.com/en-US/games/store/recore/9nblggh1z6fq",
+      "platform": ["PC/XBOX"],
+      "date": "February, 2024"
+    }
+  ],
   "upcoming": [
     {
       "image": "./covers/alan-wake-2.jpg",
