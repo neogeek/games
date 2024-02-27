@@ -4,9 +4,10 @@
 
 ## Currently Playing
 
-|                   Cover Art                    | Name                                                                 | Platform | Review Score |      Date      | Completed |
-| :--------------------------------------------: | -------------------------------------------------------------------- | -------- | :----------: | :------------: | :-------: |
-| <img src="./covers/recore.jpg" height="100" /> | [ReCore](https://www.xbox.com/en-US/games/store/recore/9nblggh1z6fq) | PC/XBOX  |      -       | February, 2024 |     -     |
+|                      Cover Art                       | Name                                                                  | Platform | Review Score |      Date      | Completed |
+| :--------------------------------------------------: | --------------------------------------------------------------------- | -------- | :----------: | :------------: | :-------: |
+| <img src="./covers/helldivers-2.png" height="100" /> | [Helldivers 2](https://www.playstation.com/en-us/games/helldivers-2/) | PC       |     🙋‍♂️🙋‍♂️     | February, 2024 |     -     |
+|    <img src="./covers/recore.jpg" height="100" />    | [ReCore](https://www.xbox.com/en-US/games/store/recore/9nblggh1z6fq)  | PC/XBOX  |      -       | February, 2024 |     -     |
 
 ## Upcoming
 

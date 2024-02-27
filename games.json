@@ -1,6 +1,14 @@
 {
   "playing": [
     {
+      "image": "./covers/helldivers-2.png",
+      "name": "Helldivers 2",
+      "url": "https://www.playstation.com/en-us/games/helldivers-2/",
+      "platform": ["PC"],
+      "review": "🙋‍♂️🙋‍♂️",
+      "date": "February, 2024"
+    },
+    {
       "image": "./covers/recore.jpg",
       "name": "ReCore",
       "url": "https://www.xbox.com/en-US/games/store/recore/9nblggh1z6fq",
