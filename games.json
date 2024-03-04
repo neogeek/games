@@ -1,18 +1,30 @@
 {
-  "playing": [
+  "ongoing": [
+    {
+      "image": "./covers/balatro.jpg",
+      "name": "Balatro",
+      "url": "https://www.playbalatro.com/",
+      "platform": ["PC"]
+    },
     {
       "image": "./covers/helldivers-2.png",
       "name": "Helldivers 2",
       "url": "https://www.playstation.com/en-us/games/helldivers-2/",
-      "platform": ["PC"],
-      "review": "🙋‍♂️🙋‍♂️",
-      "date": "February, 2024"
+      "platform": ["PC"]
     },
+    {
+      "image": "./covers/fortnite.png",
+      "name": "Fortnite",
+      "url": "https://www.fortnite.com/",
+      "platform": ["PC", "XBOX", "PS5", "Switch"]
+    }
+  ],
+  "playing": [
     {
       "image": "./covers/recore.jpg",
       "name": "ReCore",
       "url": "https://www.xbox.com/en-US/games/store/recore/9nblggh1z6fq",
-      "platform": ["PC/XBOX"],
+      "platform": ["PC", "XBOX"],
       "date": "February, 2024"
     }
   ],
@@ -39,7 +51,7 @@
       "image": "./covers/cocoon.png",
       "name": "COCOON",
       "url": "https://www.cocoongame.com/",
-      "platform": ["PC/XBOX"]
+      "platform": ["PC", "XBOX"]
     }
   ],
 

@@ -2,7 +2,7 @@
 
 import games from './games.json';
 
-const { playing, upcoming, ...years } = games;
+const { ongoing, playing, upcoming, ...years } = games;
 
 type Item = {
   image: string;
@@ -61,11 +61,13 @@ const drawTable = (title: string, data: Item[]) => {
 
 console.log(`# Games I've Played
 
-> A chronicling of the games I played each year.`);
+> A chronicling of the games I played each year.\n`);
 
-console.log(drawTable('Currently Playing', games.playing as Item[]));
+console.log(drawTable('Ongoing', ongoing as Item[]));
 
-console.log(drawTable('Upcoming', games.upcoming as Item[]));
+console.log(drawTable('Currently Playing', playing as Item[]));
+
+console.log(drawTable('Upcoming', upcoming as Item[]));
 
 Object.keys(years)
   .reverse()

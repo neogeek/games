@@ -2,12 +2,19 @@
 
 > A chronicling of the games I played each year.
 
+## Ongoing
+
+|                      Cover Art                       | Name                                                                  | Platform           | Review Score | Date | Completed |
+| :--------------------------------------------------: | --------------------------------------------------------------------- | ------------------ | :----------: | :--: | :-------: |
+|   <img src="./covers/balatro.jpg" height="100" />    | [Balatro](https://www.playbalatro.com/)                               | PC                 |      -       |  -   |     -     |
+| <img src="./covers/helldivers-2.png" height="100" /> | [Helldivers 2](https://www.playstation.com/en-us/games/helldivers-2/) | PC                 |      -       |  -   |     -     |
+|   <img src="./covers/fortnite.png" height="100" />   | [Fortnite](https://www.fortnite.com/)                                 | PC/XBOX/PS5/Switch |      -       |  -   |     -     |
+
 ## Currently Playing
 
-|                      Cover Art                       | Name                                                                  | Platform | Review Score |      Date      | Completed |
-| :--------------------------------------------------: | --------------------------------------------------------------------- | -------- | :----------: | :------------: | :-------: |
-| <img src="./covers/helldivers-2.png" height="100" /> | [Helldivers 2](https://www.playstation.com/en-us/games/helldivers-2/) | PC       |     🙋‍♂️🙋‍♂️     | February, 2024 |     -     |
-|    <img src="./covers/recore.jpg" height="100" />    | [ReCore](https://www.xbox.com/en-US/games/store/recore/9nblggh1z6fq)  | PC/XBOX  |      -       | February, 2024 |     -     |
+|                   Cover Art                    | Name                                                                 | Platform | Review Score |      Date      | Completed |
+| :--------------------------------------------: | -------------------------------------------------------------------- | -------- | :----------: | :------------: | :-------: |
+| <img src="./covers/recore.jpg" height="100" /> | [ReCore](https://www.xbox.com/en-US/games/store/recore/9nblggh1z6fq) | PC/XBOX  |      -       | February, 2024 |     -     |
 
 ## Upcoming
 
