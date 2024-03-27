@@ -21,6 +21,13 @@
   ],
   "playing": [
     {
+      "image": "./covers/nitw.jpg",
+      "name": "Night in the Woods",
+      "url": "http://www.nightinthewoods.com/",
+      "platform": ["PC", "XBOX"],
+      "date": "March, 2024"
+    },
+    {
       "image": "./covers/recore.jpg",
       "name": "ReCore",
       "url": "https://www.xbox.com/en-US/games/store/recore/9nblggh1z6fq",

@@ -14,6 +14,7 @@
 
 |                   Cover Art                    | Name                                                                 | Platform | Review Score |      Date      | Completed |
 | :--------------------------------------------: | -------------------------------------------------------------------- | -------- | :----------: | :------------: | :-------: |
+|  <img src="./covers/nitw.jpg" height="100" />  | [Night in the Woods](http://www.nightinthewoods.com/)                | PC/XBOX  |      -       |  March, 2024   |     -     |
 | <img src="./covers/recore.jpg" height="100" /> | [ReCore](https://www.xbox.com/en-US/games/store/recore/9nblggh1z6fq) | PC/XBOX  |      -       | February, 2024 |     -     |
 
 ## Upcoming
