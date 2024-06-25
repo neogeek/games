@@ -1,38 +1,24 @@
 {
   "ongoing": [
     {
-      "image": "./covers/balatro.jpg",
-      "name": "Balatro",
-      "url": "https://www.playbalatro.com/",
-      "platform": ["PC"]
-    },
-    {
-      "image": "./covers/helldivers-2.png",
-      "name": "Helldivers 2",
-      "url": "https://www.playstation.com/en-us/games/helldivers-2/",
-      "platform": ["PC"]
-    },
-    {
-      "image": "./covers/fortnite.png",
-      "name": "Fortnite",
-      "url": "https://www.fortnite.com/",
-      "platform": ["PC", "XBOX", "PS5", "Switch"]
+      "image": "./covers/lego-star-wars.jpg",
+      "name": "LEGO® Star Wars™: The Skywalker Saga",
+      "url": "https://www.nintendo.com/us/store/products/lego-star-wars-the-skywalker-saga-switch/",
+      "platform": ["Switch"]
     }
   ],
   "playing": [
     {
-      "image": "./covers/nitw.jpg",
-      "name": "Night in the Woods",
-      "url": "http://www.nightinthewoods.com/",
-      "platform": ["PC"],
-      "date": "March, 2024"
+      "image": "./covers/destiny-2-the-witch-queen.jpg",
+      "name": "Destiny 2: The Witch Queen",
+      "url": "https://www.bungie.net/7/en/Destiny/WitchQueen",
+      "platform": ["PC", "XBOX"]
     },
     {
-      "image": "./covers/recore.jpg",
-      "name": "ReCore",
-      "url": "https://www.xbox.com/en-US/games/store/recore/9nblggh1z6fq",
-      "platform": ["PC", "XBOX"],
-      "date": "February, 2024"
+      "image": "./covers/prince-of-persia-the-lost-crown.jpg",
+      "name": "Prince of Persia The Lost Crown",
+      "url": "https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown",
+      "platform": ["PC"]
     }
   ],
   "upcoming": [
@@ -41,12 +27,6 @@
       "name": "Alan Wake 2",
       "url": "https://www.alanwake.com/",
       "platform": ["XBOX"]
-    },
-    {
-      "image": "./covers/prince-of-persia-the-lost-crown.jpg",
-      "name": "Prince of Persia The Lost Crown",
-      "url": "https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown",
-      "platform": ["PC"]
     },
     {
       "image": "./covers/life-is-strange-true-colors.png",
@@ -63,6 +43,22 @@
   ],
 
   "2024": [
+    {
+      "image": "./covers/destiny-2-beyond-light.jpg",
+      "name": "Destiny 2: Beyond Light",
+      "url": "https://www.bungie.net/7/en/Destiny/Buy/BeyondLight",
+      "platform": ["PC", "XBOX"],
+      "date": "June, 2024",
+      "completed": true
+    },
+    {
+      "image": "./covers/destiny-2-shadowkeep.jpg",
+      "name": "Destiny 2: Shadowkeep",
+      "url": "https://www.bungie.net/7/en/Destiny/Buy/Shadowkeep",
+      "platform": ["PC", "XBOX"],
+      "date": "June, 2024",
+      "completed": true
+    },
     {
       "image": "./covers/crackdown-3.jpg",
       "name": "Crackdown 3",
