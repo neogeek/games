@@ -12,7 +12,7 @@
 
 | Cover Art | Name | Platform | Review Score | Date | Completed |
 | :-------: | ---- | -------- | :----------: | :--: | :-------: |
-| <img src="./covers/destiny-2-the-witch-queen.jpg" height="100" /> | [Destiny 2: The Witch Queen](https://www.bungie.net/7/en/Destiny/WitchQueen) | PC/XBOX | - | - | - |
+| <img src="./covers/destiny-2-lightfall.jpg" height="100" /> | [Destiny 2: Lightfall](https://www.bungie.net/7/en/Destiny/Lightfall) | PC/XBOX | - | - | - |
 | <img src="./covers/prince-of-persia-the-lost-crown.jpg" height="100" /> | [Prince of Persia The Lost Crown](https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown) | PC | - | - | - |
 
 ## Upcoming
@@ -27,6 +27,7 @@
 
 | Cover Art | Name | Platform | Review Score | Date | Completed |
 | :-------: | ---- | -------- | :----------: | :--: | :-------: |
+| <img src="./covers/destiny-2-the-witch-queen.jpg" height="100" /> | [Destiny 2: The Witch Queen](https://www.bungie.net/7/en/Destiny/WitchQueen) | PC/XBOX | - | July, 2024 | ✅ |
 | <img src="./covers/destiny-2-beyond-light.jpg" height="100" /> | [Destiny 2: Beyond Light](https://www.bungie.net/7/en/Destiny/Buy/BeyondLight) | PC/XBOX | - | June, 2024 | ✅ |
 | <img src="./covers/destiny-2-shadowkeep.jpg" height="100" /> | [Destiny 2: Shadowkeep](https://www.bungie.net/7/en/Destiny/Buy/Shadowkeep) | PC/XBOX | - | June, 2024 | ✅ |
 | <img src="./covers/crackdown-3.jpg" height="100" /> | [Crackdown 3](https://www.crackdown.com/) | XBOX | - | February, 2024 | ✅ |

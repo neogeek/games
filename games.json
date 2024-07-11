@@ -9,9 +9,9 @@
   ],
   "playing": [
     {
-      "image": "./covers/destiny-2-the-witch-queen.jpg",
-      "name": "Destiny 2: The Witch Queen",
-      "url": "https://www.bungie.net/7/en/Destiny/WitchQueen",
+      "image": "./covers/destiny-2-lightfall.jpg",
+      "name": "Destiny 2: Lightfall",
+      "url": "https://www.bungie.net/7/en/Destiny/Lightfall",
       "platform": ["PC", "XBOX"]
     },
     {
@@ -43,6 +43,14 @@
   ],
 
   "2024": [
+    {
+      "image": "./covers/destiny-2-the-witch-queen.jpg",
+      "name": "Destiny 2: The Witch Queen",
+      "url": "https://www.bungie.net/7/en/Destiny/WitchQueen",
+      "platform": ["PC", "XBOX"],
+      "date": "July, 2024",
+      "completed": true
+    },
     {
       "image": "./covers/destiny-2-beyond-light.jpg",
       "name": "Destiny 2: Beyond Light",
