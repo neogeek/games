@@ -16,19 +16,5 @@
     "name": "Fortnite",
     "url": "https://www.fortnite.com/",
     "platform": ["PC", "XBOX", "PS5", "Switch"]
-  },
-  {
-    "image": "./covers/nitw.jpg",
-    "name": "Night in the Woods",
-    "url": "http://www.nightinthewoods.com/",
-    "platform": ["PC"],
-    "date": "March, 2024"
-  },
-  {
-    "image": "./covers/recore.jpg",
-    "name": "ReCore",
-    "url": "https://www.xbox.com/en-US/games/store/recore/9nblggh1z6fq",
-    "platform": ["PC", "XBOX"],
-    "date": "February, 2024"
   }
 ]

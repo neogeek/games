@@ -68,6 +68,34 @@
       "completed": true
     },
     {
+      "image": "./covers/dying-light.jpg",
+      "name": "Dying Light",
+      "url": "https://dyinglightgame.com/dying-light-1",
+      "platform": ["PC"],
+      "date": "May, 2024"
+    },
+    {
+      "image": "./covers/pacific-drive.jpg",
+      "name": "Pacific Drive",
+      "url": "https://www.pacificdrivegame.com/",
+      "platform": ["PC"],
+      "date": "April, 2024"
+    },
+    {
+      "image": "./covers/nitw.jpg",
+      "name": "Night in the Woods",
+      "url": "http://www.nightinthewoods.com/",
+      "platform": ["PC"],
+      "date": "March, 2024"
+    },
+    {
+      "image": "./covers/recore.jpg",
+      "name": "ReCore",
+      "url": "https://www.xbox.com/en-US/games/store/recore/9nblggh1z6fq",
+      "platform": ["PC", "XBOX"],
+      "date": "February, 2024"
+    },
+    {
       "image": "./covers/crackdown-3.jpg",
       "name": "Crackdown 3",
       "url": "https://www.crackdown.com/",
