@@ -5,20 +5,20 @@
 ## Ongoing
 
 | Cover Art | Name | Platform | Review Score | Date | Completed |
-| :-------: | ---- | -------- | :----------: | :--: | :-------: |
+| :-------: | ---- | :--------: | :----------: | :--: | :-------: |
 | <img src="./covers/lego-star-wars.jpg" height="100" /> | [LEGO® Star Wars™: The Skywalker Saga](https://www.nintendo.com/us/store/products/lego-star-wars-the-skywalker-saga-switch/) | Switch | - | - | - |
 
 ## Currently Playing
 
 | Cover Art | Name | Platform | Review Score | Date | Completed |
-| :-------: | ---- | -------- | :----------: | :--: | :-------: |
+| :-------: | ---- | :--------: | :----------: | :--: | :-------: |
 | <img src="./covers/destiny-2-the-final-shape.jpg" height="100" /> | [Destiny 2: The Final Shape](https://www.destinythegame.com/the-final-shape) | PC | - | - | - |
 | <img src="./covers/prince-of-persia-the-lost-crown.jpg" height="100" /> | [Prince of Persia The Lost Crown](https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown) | PC | - | - | - |
 
 ## Upcoming
 
 | Cover Art | Name | Platform | Review Score | Date | Completed |
-| :-------: | ---- | -------- | :----------: | :--: | :-------: |
+| :-------: | ---- | :--------: | :----------: | :--: | :-------: |
 | <img src="./covers/alan-wake-2.jpg" height="100" /> | [Alan Wake 2](https://www.alanwake.com/) | XBOX | - | - | - |
 | <img src="./covers/life-is-strange-true-colors.png" height="100" /> | [Life is Strange: True Colors](https://lifeisstrange.square-enix-games.com/en-us/games/life-is-strange-true-colors/) | PS5 | - | - | - |
 | <img src="./covers/cocoon.png" height="100" /> | [COCOON](https://www.cocoongame.com/) | PC/XBOX | - | - | - |
@@ -26,7 +26,7 @@
 ## 2024
 
 | Cover Art | Name | Platform | Review Score | Date | Completed |
-| :-------: | ---- | -------- | :----------: | :--: | :-------: |
+| :-------: | ---- | :--------: | :----------: | :--: | :-------: |
 | <img src="./covers/destiny-2-lightfall.jpg" height="100" /> | [Destiny 2: Lightfall](https://www.bungie.net/7/en/Destiny/Lightfall) | PC/XBOX | - | July, 2024 | ✅ |
 | <img src="./covers/destiny-2-the-witch-queen.jpg" height="100" /> | [Destiny 2: The Witch Queen](https://www.bungie.net/7/en/Destiny/WitchQueen) | PC/XBOX | - | July, 2024 | ✅ |
 | <img src="./covers/destiny-2-beyond-light.jpg" height="100" /> | [Destiny 2: Beyond Light](https://www.bungie.net/7/en/Destiny/Buy/BeyondLight) | PC/XBOX | - | June, 2024 | ✅ |
@@ -43,7 +43,7 @@
 ## 2023
 
 | Cover Art | Name | Platform | Review Score | Date | Completed |
-| :-------: | ---- | -------- | :----------: | :--: | :-------: |
+| :-------: | ---- | :--------: | :----------: | :--: | :-------: |
 | <img src="./covers/control.jpg" height="100" /> | [Control](https://www.remedygames.com/games/control) | PS5 | - | December, 2023 | ✅ |
 | <img src="./covers/oxenfree-2-lost-signals.jpg" height="100" /> | [Oxenfree II: Lost Signals](https://nightschoolstudio.com/oxenfree-ii) | PC | ⭐️ 10/10 | December, 2023 | ✅ |
 | <img src="./covers/the-pedestrian.jpg" height="100" /> | [The Pedestrian](https://www.skookum-arts.com/) | PS5 | - | November, 2023 | - |
@@ -69,7 +69,7 @@
 ## 2022
 
 | Cover Art | Name | Platform | Review Score | Date | Completed |
-| :-------: | ---- | -------- | :----------: | :--: | :-------: |
+| :-------: | ---- | :--------: | :----------: | :--: | :-------: |
 | <img src="./covers/high-on-life.jpg" height="100" /> | [High On Life](https://squanchgames.com/high-on-life/) | PC | - | December, 2022 | ✅ |
 | <img src="./covers/ghosts-of-tsushima.jpg" height="100" /> | [Ghosts of Tsushima](https://www.suckerpunch.com/category/games/ghost-of-tsushima/) | PS5 | ⭐️ | October, 2022 | - |
 | <img src="./covers/gotham-knights.jpg" height="100" /> | [Gotham Knights](https://www.gothamknightsgame.com/en-us) | PS5 | 👎 | October, 2022 | - |
@@ -87,7 +87,7 @@
 ## 2021
 
 | Cover Art | Name | Platform | Review Score | Date | Completed |
-| :-------: | ---- | -------- | :----------: | :--: | :-------: |
+| :-------: | ---- | :--------: | :----------: | :--: | :-------: |
 | <img src="./covers/guardians-of-the-galaxy.jpg" height="100" /> | [Guardians of the Galaxy](https://www.marvel.com/games/marvels-guardians-of-the-galaxy) | PS5 | - | December, 2021 | ✅ |
 | <img src="./covers/far-cry-6.jpg" height="100" /> | [Far Cry 6](https://www.ubisoft.com/en-us/game/far-cry/far-cry-6) | PS5 | 🙋‍♂️🙋‍♂️ | October, 2021 | - |
 | <img src="./covers/metroid-dread.png" height="100" /> | [Metroid Dread](https://metroid.nintendo.com/) | Switch | - | October, 2021 | - |

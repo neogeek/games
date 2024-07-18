@@ -25,7 +25,7 @@ const drawTable = (title: string, data: Item[]) => {
       `| Cover Art | Name | Platform | Review Score | Date | Completed |`
     );
     output.push(
-      `| :-------: | ---- | -------- | :----------: | :--: | :-------: |`
+      `| :-------: | ---- | :--------: | :----------: | :--: | :-------: |`
     );
 
     data.map((item) => {
