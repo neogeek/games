@@ -9,12 +9,6 @@
   ],
   "playing": [
     {
-      "image": "./covers/destiny-2-lightfall.jpg",
-      "name": "Destiny 2: Lightfall",
-      "url": "https://www.bungie.net/7/en/Destiny/Lightfall",
-      "platform": ["PC", "XBOX"]
-    },
-    {
       "image": "./covers/prince-of-persia-the-lost-crown.jpg",
       "name": "Prince of Persia The Lost Crown",
       "url": "https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown",
@@ -43,6 +37,14 @@
   ],
 
   "2024": [
+    {
+      "image": "./covers/destiny-2-lightfall.jpg",
+      "name": "Destiny 2: Lightfall",
+      "url": "https://www.bungie.net/7/en/Destiny/Lightfall",
+      "platform": ["PC", "XBOX"],
+      "date": "July, 2024",
+      "completed": true
+    },
     {
       "image": "./covers/destiny-2-the-witch-queen.jpg",
       "name": "Destiny 2: The Witch Queen",
