@@ -9,6 +9,12 @@
   ],
   "playing": [
     {
+      "image": "./covers/destiny-2-the-final-shape.jpg",
+      "name": "Destiny 2: The Final Shape",
+      "url": "https://www.destinythegame.com/the-final-shape",
+      "platform": ["PC"]
+    },
+    {
       "image": "./covers/prince-of-persia-the-lost-crown.jpg",
       "name": "Prince of Persia The Lost Crown",
       "url": "https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown",

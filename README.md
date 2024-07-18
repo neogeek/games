@@ -12,6 +12,7 @@
 
 | Cover Art | Name | Platform | Review Score | Date | Completed |
 | :-------: | ---- | -------- | :----------: | :--: | :-------: |
+| <img src="./covers/destiny-2-the-final-shape.jpg" height="100" /> | [Destiny 2: The Final Shape](https://www.destinythegame.com/the-final-shape) | PC | - | - | - |
 | <img src="./covers/prince-of-persia-the-lost-crown.jpg" height="100" /> | [Prince of Persia The Lost Crown](https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown) | PC | - | - | - |
 
 ## Upcoming
