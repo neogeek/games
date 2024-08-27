@@ -44,6 +44,15 @@
 
   "2024": [
     {
+      "image": "./covers/thank-goodness-youre-here.png",
+      "name": "Thank Goodness You're Here!",
+      "url": "https://thankgoodness.game/",
+      "platform": ["Switch"],
+      "review": "⭐️ 10/10",
+      "date": "August, 2024",
+      "completed": true
+    },
+    {
       "image": "./covers/destiny-2-lightfall.jpg",
       "name": "Destiny 2: Lightfall",
       "url": "https://www.bungie.net/7/en/Destiny/Lightfall",
