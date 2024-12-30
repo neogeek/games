@@ -44,6 +44,15 @@
 
   "2024": [
     {
+      "image": "./covers/caravan-sandwitch.jpg",
+      "name": "Caravan SandWitch",
+      "url": "https://caravansandwitch.com/",
+      "platform": ["PC"],
+      "review": "⭐️ 10/10",
+      "date": "December, 2024",
+      "completed": true
+    },
+    {
       "image": "./covers/call-of-duty-black-ops-6.png",
       "name": "Call of Duty: Black Ops 6",
       "url": "https://www.callofduty.com/blackops6",

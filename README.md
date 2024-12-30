@@ -27,6 +27,7 @@
 
 | Cover Art | Name | Platform | Review Score | Date | Completed |
 | :-------: | ---- | :--------: | :----------: | :--: | :-------: |
+| <img src="./covers/caravan-sandwitch.jpg" height="100" /> | [Caravan SandWitch](https://caravansandwitch.com/) | PC | ⭐️ 10/10 | December, 2024 | ✅ |
 | <img src="./covers/call-of-duty-black-ops-6.png" height="100" /> | [Call of Duty: Black Ops 6](https://www.callofduty.com/blackops6) | PC/XBOX | ⭐️ 10/10 | October, 2024 | ✅ |
 | <img src="./covers/thank-goodness-youre-here.png" height="100" /> | [Thank Goodness You're Here!](https://thankgoodness.game/) | Switch | ⭐️ 10/10 | August, 2024 | ✅ |
 | <img src="./covers/destiny-2-lightfall.jpg" height="100" /> | [Destiny 2: Lightfall](https://www.bungie.net/7/en/Destiny/Lightfall) | PC/XBOX | - | July, 2024 | ✅ |
