@@ -23,6 +23,13 @@
 | <img src="./covers/life-is-strange-true-colors.png" height="100" /> | [Life is Strange: True Colors](https://lifeisstrange.square-enix-games.com/en-us/games/life-is-strange-true-colors/) | PS5 | - | - | - |
 | <img src="./covers/cocoon.png" height="100" /> | [COCOON](https://www.cocoongame.com/) | PC/XBOX | - | - | - |
 
+## 2025
+
+| Cover Art | Name | Platform | Review Score | Date | Completed |
+| :-------: | ---- | :--------: | :----------: | :--: | :-------: |
+| <img src="./covers/cyberpunk-2077.jpg" height="100" /> | [Cyberpunk 2077](https://www.cyberpunk.net/us/en/) | XBOX | ⭐️ 10/10 | March, 2025 | ✅ |
+| <img src="./covers/the-division-2.jpg" height="100" /> | [Tom Clancy's The Division 2](https://www.ubisoft.com/en-us/game/the-division/the-division-2) | XBOX | ⭐️ 10/10 | March, 2025 | ✅ |
+
 ## 2024
 
 | Cover Art | Name | Platform | Review Score | Date | Completed |

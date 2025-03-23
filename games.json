@@ -41,7 +41,26 @@
       "platform": ["PC", "XBOX"]
     }
   ],
-
+  "2025": [
+    {
+      "image": "./covers/cyberpunk-2077.jpg",
+      "name": "Cyberpunk 2077",
+      "url": "https://www.cyberpunk.net/us/en/",
+      "platform": ["XBOX"],
+      "review": "⭐️ 10/10",
+      "date": "March, 2025",
+      "completed": true
+    },
+    {
+      "image": "./covers/the-division-2.jpg",
+      "name": "Tom Clancy's The Division 2",
+      "url": "https://www.ubisoft.com/en-us/game/the-division/the-division-2",
+      "platform": ["XBOX"],
+      "review": "⭐️ 10/10",
+      "date": "March, 2025",
+      "completed": true
+    }
+  ],
   "2024": [
     {
       "image": "./covers/caravan-sandwitch.jpg",
