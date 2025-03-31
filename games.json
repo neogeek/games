@@ -43,6 +43,15 @@
   ],
   "2025": [
     {
+      "image": "./covers/cyberpunk-2077-phantom-liberty.jpg",
+      "name": "Cyberpunk 2077: Phantom Liberty",
+      "url": "https://www.cyberpunk.net/us/en/phantom-liberty",
+      "platform": ["XBOX"],
+      "review": "⭐️ 10/10",
+      "date": "March, 2025",
+      "completed": true
+    },
+    {
       "image": "./covers/cyberpunk-2077.jpg",
       "name": "Cyberpunk 2077",
       "url": "https://www.cyberpunk.net/us/en/",

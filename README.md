@@ -27,6 +27,7 @@
 
 | Cover Art | Name | Platform | Review Score | Date | Completed |
 | :-------: | ---- | :--------: | :----------: | :--: | :-------: |
+| <img src="./covers/cyberpunk-2077-phantom-liberty.jpg" height="100" /> | [Cyberpunk 2077: Phantom Liberty](https://www.cyberpunk.net/us/en/phantom-liberty) | XBOX | ⭐️ 10/10 | March, 2025 | ✅ |
 | <img src="./covers/cyberpunk-2077.jpg" height="100" /> | [Cyberpunk 2077](https://www.cyberpunk.net/us/en/) | XBOX | ⭐️ 10/10 | March, 2025 | ✅ |
 | <img src="./covers/the-division-2.jpg" height="100" /> | [Tom Clancy's The Division 2](https://www.ubisoft.com/en-us/game/the-division/the-division-2) | XBOX | ⭐️ 10/10 | March, 2025 | ✅ |
 
